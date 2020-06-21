@@ -1,0 +1,12 @@
+C:\Users\AshishAgrawal.DESKTOP-HDAEVAQ\source\repos\MobileAppDemo\MobileApp\UITest\bin\Release\UITest.dll
+C:\Users\AshishAgrawal.DESKTOP-HDAEVAQ\source\repos\MobileAppDemo\MobileApp\UITest\bin\Release\nunit.framework.dll
+C:\Users\AshishAgrawal.DESKTOP-HDAEVAQ\source\repos\MobileAppDemo\MobileApp\UITest\bin\Release\nunit.framework.pdb
+C:\Users\AshishAgrawal.DESKTOP-HDAEVAQ\source\repos\MobileAppDemo\MobileApp\UITest\bin\Release\Xamarin.UITest.dll
+C:\Users\AshishAgrawal.DESKTOP-HDAEVAQ\source\repos\MobileAppDemo\MobileApp\UITest\obj\Release\UITest.csprojAssemblyReference.cache
+C:\Users\AshishAgrawal.DESKTOP-HDAEVAQ\source\repos\MobileAppDemo\MobileApp\UITest\obj\Release\UITest.csproj.CoreCompileInputs.cache
+C:\Users\AshishAgrawal.DESKTOP-HDAEVAQ\source\repos\MobileAppDemo\MobileApp\UITest\obj\Release\UITest.csproj.CopyComplete
+C:\Users\AshishAgrawal.DESKTOP-HDAEVAQ\source\repos\MobileAppDemo\MobileApp\UITest\obj\Release\UITest.dll
+C:\Users\AshishAgrawal.DESKTOP-HDAEVAQ\source\repos\MobileAppDemo\MobileApp\UITest\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\AshishAgrawal.DESKTOP-HDAEVAQ\source\repos\MobileAppDemo\MobileApp\UITest\bin\Release\NUnit3.TestAdapter.pdb
+C:\Users\AshishAgrawal.DESKTOP-HDAEVAQ\source\repos\MobileAppDemo\MobileApp\UITest\bin\Release\nunit.engine.dll
+C:\Users\AshishAgrawal.DESKTOP-HDAEVAQ\source\repos\MobileAppDemo\MobileApp\UITest\bin\Release\nunit.engine.api.dll
