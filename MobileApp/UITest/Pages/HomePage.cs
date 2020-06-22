@@ -13,7 +13,7 @@ namespace UITest.Pages
     {   
        // public Query btnMore => x => x.Marked("More options");
         public Query btnAdd => x => x.Text("Add");
-       // public Query txtEA => x => x.Text("EA");
+        public Query txtEA => x => x.Text("EA");
 
 
         internal void ClickAdd()
@@ -24,12 +24,12 @@ namespace UITest.Pages
 
         internal void WaitForListElement()
         {
-          //  Settings.AppContext.WaitForElement(txtEA);
+            Settings.AppContext.WaitForElement(txtEA);
         }
 
-        //internal int GetElementCount()
-        //{
-        //   // return Settings.AppContext.Query(x => x.Id("recyclerView").All().Text("EA")).Count();
-        //}
+        internal int GetElementCount()
+        {
+             return Settings.AppContext.Query(x => x.Id("recyclerView").All().Text("EA")).Count();
+        }
     }
 }
